@@ -14,11 +14,14 @@
  O snesteam é um software web para o download de jogos do Super Nintendo. Com uma interface amigável e simples, é possível visualizar o catálogo completo, a visão geral de cada jogo, além de ser possível adicionar comentários avaliativos sobre cada game. Para o acesso, é necessário fazer o cadastro na plataforma. É possível testar o sistema remotamente [clicando aqui](http://snesteam.herokuapp.com/).
 
 ## Tecnologias Utilizadas
- * Html/Css
+ * Html
+ * CSS
+ * JavaScript
  * Php
- * Laravel-Framework
- * SQL
- * Composer
+ * Laravel(Framework)
+ * MySQL
+ * Bootstrap(Framework)
+ * AWS S3
 
  ## Instalação
  Realize a instalação do Php e do Composer. Em seguida, execute os seguintes comandos:
