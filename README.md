@@ -1,5 +1,6 @@
 <h1 align='center'>Snesteam</h1>
 <p align="center">Plataforma para download de roms de Super Nintendo.</p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200"></a></p>
 
 ## Objetivo
 >Software válido como atividade avaliativa da matéria "Programação para a internet", do 4º ano do curso Técnico integrado em Informática do IFRN.
