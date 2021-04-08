@@ -1,6 +1,6 @@
 * text=auto
 *.php linguist-detectable=true
-*.blade linguist-detectable=false
+*.blade.php linguist-detectable=false
 *.css linguist-detectable=false
 *.scss linguist-detectable=false
 *.js linguist-detectable=false
